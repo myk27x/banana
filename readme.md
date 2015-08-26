@@ -5,7 +5,7 @@ but...
 
 underscores make it _italic_
 
-asterisks make it *bold*
+asterisks make it **bold**
 
 go see a markdown tutorial...
 
